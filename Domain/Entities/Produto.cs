@@ -44,6 +44,7 @@
         public void Desativar()
         {
             Ativo = false;
+            //Implementar a data de alteração, tbm seria legal
         }
     }
 }
