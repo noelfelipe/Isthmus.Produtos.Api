@@ -1,0 +1,57 @@
+﻿## Compilação
+bin/
+obj/
+out/
+TestResults/
+
+## Logs
+*.log
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Configurações locais
+.vscode/
+.idea/
+*.code-workspace
+
+## Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Configurações do Visual Studio
+.vs/
+*.ncb
+*.aps
+*.dbmdl
+*.opendb
+
+## Diretório de pacotes
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+## Configurações do ASP.NET
+appsettings.*.json
+secrets.json
+
+## HTTPS certs
+*.pfx
+*.pem
+*.key
+
+## Outros
+*.bak
+*.orig
+
+## Docker
+**/docker-compose.override.yml
+**/.dockerignore
